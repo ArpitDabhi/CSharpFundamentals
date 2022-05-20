@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties", "Properties\Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers", "AccessModifiers\AccessModifiers.csproj", "{A837D701-B413-481B-880B-95EBED6107D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "Abstraction\Abstraction.csproj", "{99A70281-6F36-4279-839F-D5C0AD8796D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{A837D701-B413-481B-880B-95EBED6107D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A837D701-B413-481B-880B-95EBED6107D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A837D701-B413-481B-880B-95EBED6107D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99A70281-6F36-4279-839F-D5C0AD8796D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A70281-6F36-4279-839F-D5C0AD8796D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A70281-6F36-4279-839F-D5C0AD8796D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A70281-6F36-4279-839F-D5C0AD8796D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

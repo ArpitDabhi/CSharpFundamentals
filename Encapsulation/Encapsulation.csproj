@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A837D701-B413-481B-880B-95EBED6107D6}</ProjectGuid>
+    <ProjectGuid>{004E2AF6-8D3B-4583-8923-4E5E98715E83}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AccessModifiers</RootNamespace>
-    <AssemblyName>AccessModifiers</AssemblyName>
+    <RootNamespace>Encapsulation</RootNamespace>
+    <AssemblyName>Encapsulation</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Private.cs" />
+    <Compile Include="DemoEncapsulation.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Protected.cs" />
-    <Compile Include="Public.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
