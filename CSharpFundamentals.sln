@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{65FAD97C-B82A-46EF-ABBE-AFE4BD1AB476}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{4C591C00-641A-4D90-93A6-28ED1254CECC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClass", "PartialClass\PartialClass.csproj", "{02BD479C-DAA3-4970-90FF-8C0B1FE1C8E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{65FAD97C-B82A-46EF-ABBE-AFE4BD1AB476}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65FAD97C-B82A-46EF-ABBE-AFE4BD1AB476}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65FAD97C-B82A-46EF-ABBE-AFE4BD1AB476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C591C00-641A-4D90-93A6-28ED1254CECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C591C00-641A-4D90-93A6-28ED1254CECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C591C00-641A-4D90-93A6-28ED1254CECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C591C00-641A-4D90-93A6-28ED1254CECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02BD479C-DAA3-4970-90FF-8C0B1FE1C8E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02BD479C-DAA3-4970-90FF-8C0B1FE1C8E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02BD479C-DAA3-4970-90FF-8C0B1FE1C8E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02BD479C-DAA3-4970-90FF-8C0B1FE1C8E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
