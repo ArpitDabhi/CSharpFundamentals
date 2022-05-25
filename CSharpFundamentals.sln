@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "Except
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClass", "PartialClass\PartialClass.csproj", "{02BD479C-DAA3-4970-90FF-8C0B1FE1C8E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{9AAAC965-B646-4EAD-9458-2E217ACDA221}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethod", "ExtensionMethod\ExtensionMethod.csproj", "{DBE8E4C1-03D7-4EFF-B47B-B7ECB46FC829}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{02BD479C-DAA3-4970-90FF-8C0B1FE1C8E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02BD479C-DAA3-4970-90FF-8C0B1FE1C8E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02BD479C-DAA3-4970-90FF-8C0B1FE1C8E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AAAC965-B646-4EAD-9458-2E217ACDA221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AAAC965-B646-4EAD-9458-2E217ACDA221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AAAC965-B646-4EAD-9458-2E217ACDA221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AAAC965-B646-4EAD-9458-2E217ACDA221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBE8E4C1-03D7-4EFF-B47B-B7ECB46FC829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE8E4C1-03D7-4EFF-B47B-B7ECB46FC829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE8E4C1-03D7-4EFF-B47B-B7ECB46FC829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE8E4C1-03D7-4EFF-B47B-B7ECB46FC829}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
